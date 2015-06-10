@@ -1,6 +1,6 @@
 {
   "name": "payment",
-  "version": "1.2.3",
+  "version": "10.20.30",
   "title": "jQuery.payment",
   "description": "A general purpose library for building credit card forms, validating inputs and formatting numbers.",
   "keywords": [
@@ -16,13 +16,13 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/stripe/jquery.payment/blob/master/LICENSE"
+      "url": "https://github.com/robertomoutinho/jquery.payment/blob/master/LICENSE"
     }
   ],
-  "homepage": "https://github.com/stripe/jquery.payment",
-  "docs": "https://github.com/stripe/jquery.payment",
-  "bugs": "https://github.com/stripe/jquery.payment/issues",
-  "demo": "http://stripe.github.io/jquery.payment/example",
+  "homepage": "https://github.com/robertomoutinho/jquery.payment",
+  "docs": "https://github.com/robertomoutinho/jquery.payment",
+  "bugs": "https://github.com/robertomoutinho/jquery.payment/issues",
+  "demo": "https://github.com/robertomoutinho/jquery.payment/example",
   "dependencies": {
     "jquery": ">=1.5"
   }
